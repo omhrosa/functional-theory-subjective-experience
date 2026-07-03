@@ -1,70 +1,70 @@
 # Functional Theory of Subjective Experience (FTSE)
 
-A speculative functional model of subjective experience.
+A conceptual framework proposing that subjective experience emerges from the functional architecture required for biological organism regulation.
+
+---
 
 ## Overview
 
-The Functional Theory of Subjective Experience (FTSE) proposes a naturalistic and mechanistic account of subjective experience as an emergent property of a brain regulating an embodied organism within an environment.
+The Functional Theory of Subjective Experience (FTSE) is a naturalistic and mechanistic conceptual framework that approaches subjective experience from the perspective of biological function rather than metaphysics.
 
-The theory does not treat consciousness as a metaphysical substance or irreducible entity. Instead, it treats consciousness as a functional mode of organization that arises when an integrated field of experience becomes recursively coupled to organism-centered self-modeling processes involved in regulation, prediction, and action.
+Instead of asking *"How does the brain generate consciousness?"*, FTSE begins with a different question:
 
-FTSE is presented as an exploratory conceptual framework. It is not a finished scientific theory, and it does not claim to solve all problems in consciousness research. Its goal is more modest: to offer a coherent, biologically grounded model of subjective experience that remains broadly compatible with current empirical edge cases.
+> **What functional architecture would we expect to emerge in a brain whose primary role is to regulate an embodied organism while operating under conditions of informational isolation?**
 
-## Core idea
+FTSE proposes that the requirements imposed by biological organism regulation naturally lead to increasingly integrated internal models, culminating in an integrated Self-Model that functions as the brain's operational reference frame.
 
-FTSE distinguishes between:
+Through this organism-centered reference frame, behaviorally relevant information is continuously organized into a unified organism-centered functional state.
 
-- The **experience model**, which represents currently integrated experiential content.
-- The **world model**, which represents the external environment.
-- The **body model**, which represents the organism as a bodily system.
-- The **self-model**, which organizes these models around the organism as a situated, regulated entity.
+The central proposal of FTSE is that this continuously synthesized organism-centered functional state is what we ordinarily identify as subjective experience.
 
-The theory proposes that richer organism-centered subjectivity emerges when ongoing brain activity is recursively coupled with a self-model that integrates experiential, bodily, and world-related information over time.
+---
 
-## Document structure
+## Core Architecture
 
-- [Full Proposal](proposal.md)
+The theory develops through the following progression:
 
-## Status
+**Biological Constraints → Computational Necessity → Functional Architecture → Integrated Self-Model → Operational Reference Frame → Organism-Centered Functional State → Subjective Experience**
 
-This repository is a work in progress.
+Within this architecture:
 
-The model should be understood as:
+* **Internal Models** represent different aspects of the organism and its environment.
+* **The Self-Model** serves as the mechanism integrating those models.
+* **The Operational Reference Frame** provides the organism-centered mode of computation.
+* **The Organism-Centered Functional State** is the continuously synthesized result of that organization.
+* **Subjective Experience** is proposed to be identical to that functional state.
 
-- A speculative functional theory.
-- A naturalistic account of subjectivity.
-- A conceptual architecture, not a validated neuroscientific model.
-- A framework intended to be revised in response to criticism and evidence.
+---
 
 ## Scope
 
-FTSE is mainly concerned with:
+FTSE is presented as a conceptual framework rather than a completed neuroscientific theory of consciousness.
 
-- Subjective experience.
-- Organism-centered perspective.
-- Self-modeling.
-- Experience generation and organism control.
-- Graded forms of consciousness.
+It does **not** claim to:
 
-It is not intended as:
+* solve every philosophical problem concerning consciousness,
+* provide a complete neural implementation,
+* replace empirical neuroscience,
+* or offer a definitive test for consciousness.
 
-- A metaphysical theory of mind.
-- A proof of consciousness in specific organisms.
-- A complete neuroscientific model.
-- A replacement for empirical research.
+Instead, it proposes a coherent functional architecture intended to stimulate discussion, refinement, criticism, and future empirical investigation.
 
-## Working summary
+---
 
-In its current form, FTSE can be summarized as follows:
+## Repository
 
-> Subjective experience, in its richer organism-centered form, is the ongoing dynamic interaction between brain activity and an internal self-model that integrates experiential, bodily, and world-related information in the service of regulating an embodied organism within an environment.
+* **Full Proposal:** [proposal.md](proposal.md)
+
+---
 
 ## Authors
 
-- Omiros Ampatzis
-- ChatGPT GPT-5.3
-- GPT-5.4 Reasoning
+* Omiros Ampatzis
+* ChatGPT (OpenAI GPT-5.5)
 
-## Note
+---
 
-This repository presents an exploratory model for discussion, refinement, and personal research use. 
+## License
+
+Apache License 2.0
+
